@@ -19,3 +19,8 @@ The Euclid Emulator data was obtained from: https://github.com/miknab/EuclidEmul
 
 To match the code, the Euclid Emulator data need to be saved in a folder called "emulator_runs".
 
+# Credits
+
+Credits for this project go to:
+
+Fran Lane, the University of Edinburgh, United Kingdom for constructing the CTM code and constantly advising me in this project; https://github.com/franlane94. 
