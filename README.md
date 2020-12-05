@@ -1,6 +1,6 @@
 # CTM_DGP
 
-Project to Implement the Cosmological Trajectories Method (CTM) code to a simple modified gravity theory, DGP gravity.
+Project to apply the Cosmological Trajectories Method (CTM) code to a simple modified gravity theory, DGP gravity.
 
 
 # Installation of the CTM code
